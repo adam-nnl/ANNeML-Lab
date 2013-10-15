@@ -1,10 +1,3 @@
-<!-- 
-Copyright (c) 2013 Adam Lara
-
-This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported License. 
-http://creativecommons.org/licenses/by-sa/3.0/deed.en_US
-See LICENSE file and for full terms or: http://creativecommons.org/licenses/by-sa/3.0/legalcode
--->
 <?xml version="1.0" encoding="utf-8" ?>
 <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
   <xs:element name="NNETWORK">
@@ -56,3 +49,10 @@ See LICENSE file and for full terms or: http://creativecommons.org/licenses/by-s
     </xs:complexType>
   </xs:element>
 </xs:schema>
+<!-- 
+Copyright (c) 2013 Adam Lara
+
+This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported License. 
+http://creativecommons.org/licenses/by-sa/3.0/deed.en_US
+See LICENSE file and for full terms or: http://creativecommons.org/licenses/by-sa/3.0/legalcode
+-->
