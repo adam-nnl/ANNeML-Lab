@@ -1,4 +1,4 @@
-![My image](/src/ANNeML-lab.gif)
+![logo](/src/ANNeML-lab.gif)
 ANNeML-Lab
 ==========
 
